@@ -1,0 +1,39 @@
+.btn-poster{
+    color: #fff;
+    background-color: #21325e;
+    padding: 6px 20px;
+    text-decoration: none !important;
+    transition: .5s;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+}
+.btn-poster:hover{
+    background: #117bff;
+    cursor: pointer;
+    transition: background .5s;
+    -webkit-transition: background .5s;
+    -moz-transition: background .5s;
+    -ms-transition: background .5s;
+    -o-transition: background .5s;
+}
+
+a{
+    color: #117bff;
+    text-decoration: none !important;
+    transition:.5s;
+    -webkit-transition:.5s;
+    -moz-transition:.5s;
+    -ms-transition:.5s;
+    -o-transition:.5s;
+}
+a:hover{
+    color: #117cffa2;
+    cursor: pointer;
+    transition: background .5s;
+    -webkit-transition: background .5s;
+    -moz-transition: background .5s;
+    -ms-transition: background .5s;
+    -o-transition: background .5s;
+}

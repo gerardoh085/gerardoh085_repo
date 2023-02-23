@@ -1,0 +1,54 @@
+.Icons a{
+    /* width: 100%; */
+    /* display: flex; */
+    gap: 5px;
+    margin: 10px;
+    align-items: center;
+    justify-content: center !important;
+    color: white !important;
+    /* cursor: pointer; */
+}
+.Icons a{
+    text-decoration: none !important;
+    transition: .5s !important;
+    -webkit-transition: .5s !important;
+    -moz-transition: .5s !important;
+    -ms-transition: .5s !important;
+    -o-transition: .5s !important;
+}
+/* .Icons a:hover{
+    color: #117bff !important;
+    transition: background .5s !important;
+    -webkit-transition: background .5s !important;
+    -moz-transition: background .5s !important;
+    -ms-transition: background .5s !important;
+    -o-transition: background .5s !important;
+} */
+.Icons a:nth-child(1):hover{
+    color: #965faa !important;
+    transition: background .5s !important;
+    -webkit-transition: background .5s !important;
+    -moz-transition: background .5s !important;
+    -ms-transition: background .5s !important;
+    -o-transition: background .5s !important;
+}
+.Icons a:nth-child(2):hover{
+    color: rgba(144, 144, 144, 0.301) !important;
+    transition: background .5s !important;
+    -webkit-transition: background .5s !important;
+    -moz-transition: background .5s !important;
+    -ms-transition: background .5s !important;
+    -o-transition: background .5s !important;
+}
+.Icons a:nth-child(3):hover{
+    color: black !important;
+    transition: background .5s !important;
+    -webkit-transition: background .5s !important;
+    -moz-transition: background .5s !important;
+    -ms-transition: background .5s !important;
+    -o-transition: background .5s !important;
+}
+
+.Icons a::after{
+    color:white !important;
+}
