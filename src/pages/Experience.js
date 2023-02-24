@@ -70,7 +70,7 @@ function Experience() {
               <br/>
               <b>View poster below:</b>
               <br/>
-              <Link to="/post1">
+              <Link to="/gerardoh085_repo/post1">
                   <span className='btn-poster'>Poster</span>  
               </Link>
           </p>
@@ -89,7 +89,7 @@ function Experience() {
             <br/>
             <b>View poster below:</b>
             <br/>
-            <Link to="/post2">
+            <Link to="/gerardoh085_repo/post2">
                 <span className='btn-poster'>Poster</span>  
             </Link>
           </p>

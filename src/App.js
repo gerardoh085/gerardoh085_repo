@@ -18,12 +18,12 @@ function App() {
       <Router>
         <Navbar/>
         <Routes>
-          <Route path='/' element={<Home/>} />
-          <Route path='/projects' element={<Projects/>}/>
-          <Route path='/experience' element={<Experience/>}/>
-          <Route path='/post1' element={<Poster1/>}/>
-          <Route path='/post2' element={<Poster2/>}/>
-          <Route path='/project/:id' element={<ProjectDisplay/>}></Route>
+          <Route path='/gerardoh085_repo/' element={<Home/>} />
+          <Route path='/gerardoh085_repo/projects' element={<Projects/>}/>
+          <Route path='/gerardoh085_repo/experience' element={<Experience/>}/>
+          <Route path='/gerardoh085_repo/post1' element={<Poster1/>}/>
+          <Route path='/gerardoh085_repo/post2' element={<Poster2/>}/>
+          <Route path='/gerardoh085_repo/project/:id' element={<ProjectDisplay/>}></Route>
         </Routes>
         <Footer/>
       </Router>
