@@ -7,7 +7,7 @@ function ProjectList({name, image, id}) {
   return (
     <div className='projectItem'
     onClick={()=>{
-        nav('/project/' + id);
+        nav('/gerardoh085_repo/project/' + id);
     }}
     >
       <div style={{ backgroundImage: `url(${image})` }} className="bgImage" />
