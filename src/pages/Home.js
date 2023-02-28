@@ -13,7 +13,7 @@ function Home() {
           <div className='Icons'>
             <a href='https://www.linkedin.com/in/gerardo-hernandez-macoto-129364176/' target={"_blank"}><FaLinkedin size={50}/></a>
             <a href="mailto:gerardoh085@gmail.com" target={"_blank"}><FaEnvelope size={50}/></a>
-            <a href="https://github.com/gerardohmacoto" target={"_blank"}><FaGithubSquare size={50}/></a>            
+            <a href="https://github.com/gerardoh085" target={"_blank"}><FaGithubSquare size={50}/></a>            
           </div>
         </div>
       </div>
