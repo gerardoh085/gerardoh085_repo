@@ -106,7 +106,7 @@ function Experience() {
           <h3 className='vertical-timeline-element-title'>Hackathon: Hackrithmitic 2</h3>
           <h4 className='vertical-timeline-element-subtitle'>Bethlehem, PA</h4>
           <p> 
-          My teammates and I participated in a hackathon through <a href="https://devpost.com/" target={"_blank"}>devpost.com</a>.
+          My teammates and I participated in a hackathon through <a href="https://devpost.com/" className="devpost" target={"_blank"}>devpost.com</a>.
           My team and I built a full stack web application, SkyScout, 
           to allow users to share feedback about airlines, receive 
           updates and posts, and a statistical graph based on 

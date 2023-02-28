@@ -19,7 +19,7 @@
     -o-transition: background .5s;
 }
 
-a{
+.devpost{
     color: #117bff;
     text-decoration: none !important;
     transition:.5s;
@@ -28,7 +28,7 @@ a{
     -ms-transition:.5s;
     -o-transition:.5s;
 }
-a:hover{
+.devpost:hover{
     color: #117cffa2;
     cursor: pointer;
     transition: background .5s;
