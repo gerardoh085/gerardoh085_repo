@@ -5,9 +5,10 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-color: #C5C6C7;
 }
 .project h1{
-    margin-top: 50px;
+    margin-top: 5px;
     color: #3e497a;
     font-size: 35px;
 }
